@@ -301,3 +301,5 @@ nupkg/
 
 # Claude Code files
 .claude
+
+/.scratchpad/
